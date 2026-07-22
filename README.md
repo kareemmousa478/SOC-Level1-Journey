@@ -20,8 +20,8 @@ This repository documents my progress through the TryHackMe SOC Level 1 path, in
 
 - [x] Section 1 – Blue Team Introduction
 - [x] Section 2 – SOC Team Internals
-- [ ] Section 3 – Core SOC Solutions
-- [ ] Section 4 – Cyber Defence Frameworks
+- [x] Section 3 – Core SOC Solutions
+- [x] Section 4 – Cyber Defence Frameworks
 - [ ] Section 5 – Phishing Analysis
 - [ ] Section 6 – Network Traffic Analysis
 - [ ] Section 7 – Network Security Monitoring
