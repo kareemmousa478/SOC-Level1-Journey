@@ -36,7 +36,7 @@ The network uses:
 - Multiple LAN networks
 - VLAN segmentation
 
-![Network Topology](Screenshots/Topology.png)
+![Network Topology]([Screenshots/Topology.png](https://github.com/kareemmousa478/SOC-Level1-Journey/blob/main/SOC-Diploma/Networking/Topology.png))
 
 ## Network Services
 
