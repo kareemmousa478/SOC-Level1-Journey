@@ -111,3 +111,26 @@ The complete Cisco Packet Tracer project is available in the `Packet-Tracer` dir
 ## Learning Outcome
 
 This project strengthened my understanding of enterprise networking concepts and provided practical experience with routing, IP addressing, network services, VLAN segmentation, and network troubleshooting.
+
+## Project Screenshots
+
+### Network Topology
+![Network Topology](Screenshots/topology.png)
+
+### DHCP Configuration
+![DHCP](Screenshots/DHCP.png)
+
+### SSH Remote Access
+![SSH](Screenshots/SSH.png)
+
+### OSPF
+![OSPF](Screenshots/OSPF.png)
+
+### Routing Table
+![Routing](Screenshots/Routing.png)
+
+### VLAN Configuration
+![VLANs](Screenshots/Vlans.png)
+
+### DNS & HTTP
+![DNS and HTTP](Screenshots/DNS-HTTP.png)
