@@ -35,7 +35,8 @@ The network uses:
 - VLSM for IP addressing
 - Multiple LAN networks
 - VLAN segmentation
-![Network Topology](Screenshots/topology.png)
+
+![Network Topology](Screenshots/Topology.png)
 
 ## Network Services
 
